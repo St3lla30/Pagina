@@ -1,0 +1,24 @@
+*{
+	background: black;
+}
+body{
+	background-color: mediumblue;
+}
+h1{
+	font-family: cascadia code semibold;
+	font-size: 60px;
+	color: darkcyan;
+	text-align: center;
+}
+.p1{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: darkcyan;
+	text-align: center;
+}
+.p2{
+	font-family: javanese text;
+	font-size: 20px;
+	color: darkturquoise;
+	text-align: justify;
+}
