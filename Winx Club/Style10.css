@@ -1,0 +1,18 @@
+*{
+	background: black;
+}
+body{
+	background-color: darkturquoise;
+}
+h1{
+	font-family: cascadia code semibold;
+	font-size: 60px;
+	color: dodgerblue;
+	text-align: center;
+}
+.p1{
+	font-family: javanese text;
+	font-size: 20px;
+	color: deepskyblue;
+	text-align: justify;
+}

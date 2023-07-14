@@ -1,0 +1,42 @@
+*{
+	background: black;
+}
+body{
+	background-color: crimson;
+}
+h1{
+	font-family: cascadia code semibold;
+	font-size: 60px;
+	color: maroon;
+	text-align: center;
+}
+.p1{
+	font-family: javanese text;
+	font-size: 20px;
+	color: red;
+	text-align: justify;
+}
+.p2{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: darkred;
+	text-align: center;
+}
+.p3{
+	font-family: javanese text;
+	font-size: 20px;
+	color: red;
+	text-align: justify;
+}
+.p4{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: darkred;
+	text-align: center;
+}
+.p5{
+	font-family: javanese text;
+	font-size: 20px;
+	color: red;
+	text-align: justify;
+}
