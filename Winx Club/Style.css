@@ -1,0 +1,12 @@
+*{
+	background: black;
+}
+body{
+	background-color: pink;
+}
+h1{
+	font-family: cascadia code semibold;
+	font-size: 60px;
+	color: mediumvioletred;
+	text-align: center;
+}

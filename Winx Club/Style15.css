@@ -1,0 +1,48 @@
+*{
+	background: black;
+}
+body{
+	background-color: limegreen;
+}
+h1{
+	font-family: cascadia code semibold;
+	font-size: 60px;
+	color: chartreuse;
+	text-align: center;
+}
+.p1{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: lime;
+	text-align: center;
+}
+.p2{
+	font-family: javanese text;
+	font-size: 20px;
+	color: lawngreen;
+	text-align: justify;
+}
+.p3{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: lime;
+	text-align: center;
+}
+.p4{
+	font-family: javanese text;
+	font-size: 20px;
+	color: lawngreen;
+	text-align: justify;
+}
+.p5{
+	font-family: cascadia code semibold;
+	font-size: 40px;
+	color: lime;
+	text-align: center;
+}
+.p6{
+	font-family: javanese text;
+	font-size: 20px;
+	color: lawngreen;
+	text-align: justify;
+}
